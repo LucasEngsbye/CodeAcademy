@@ -5,3 +5,10 @@ C:\Users\lucas\source\repos\CodeAcademyClasses\CodeAcademyClasses\obj\Debug\Code
 C:\Users\lucas\source\repos\CodeAcademyClasses\CodeAcademyClasses\obj\Debug\CodeAcademyClasses.csproj.CoreCompileInputs.cache
 C:\Users\lucas\source\repos\CodeAcademyClasses\CodeAcademyClasses\obj\Debug\CodeAcademyClasses.exe
 C:\Users\lucas\source\repos\CodeAcademyClasses\CodeAcademyClasses\obj\Debug\CodeAcademyClasses.pdb
+C:\Users\lucas\Documents\GitHub\CodeAcademy\CodeAcademyClasses\CodeAcademyClasses\bin\Debug\CodeAcademyClasses.exe.config
+C:\Users\lucas\Documents\GitHub\CodeAcademy\CodeAcademyClasses\CodeAcademyClasses\bin\Debug\CodeAcademyClasses.exe
+C:\Users\lucas\Documents\GitHub\CodeAcademy\CodeAcademyClasses\CodeAcademyClasses\bin\Debug\CodeAcademyClasses.pdb
+C:\Users\lucas\Documents\GitHub\CodeAcademy\CodeAcademyClasses\CodeAcademyClasses\obj\Debug\CodeAcademyClasses.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\GitHub\CodeAcademy\CodeAcademyClasses\CodeAcademyClasses\obj\Debug\CodeAcademyClasses.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\GitHub\CodeAcademy\CodeAcademyClasses\CodeAcademyClasses\obj\Debug\CodeAcademyClasses.exe
+C:\Users\lucas\Documents\GitHub\CodeAcademy\CodeAcademyClasses\CodeAcademyClasses\obj\Debug\CodeAcademyClasses.pdb

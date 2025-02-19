@@ -677,11 +677,69 @@ namespace CodeAcademyClasses
 
 
 
-            // test Test 2 from Laptop *This wille be removed*
+            // Building Arrays
 
             /* Check Docs Document For the Instructions, I've given up now*/
 
             // *------------------------------------------------------------PROGRAM STARTS HERE------------------------------------------------------------*
+
+            string[] summerStrut;
+
+            summerStrut = new string[] { "toxic till the end", "Supernova", "Armageddon", "Whiplash", "earthquake", "Your Love", "TEARS", "Hugs & Kisses" };
+
+            int[] ratings = new int[] { 5, 5, 5, 5, 5, 5, 5, 5 };
+
+            // *------------------------------------------------------------PROGRAM ENDS HERE------------------------------------------------------------*
+
+
+
+            // Array Legnth
+
+            /* Check Docs Document For the Instructions, I've given up now*/
+
+            // *------------------------------------------------------------PROGRAM STARTS HERE------------------------------------------------------------*
+
+            // Looking at the array from the task before
+
+            if (summerStrut.Length == 8)
+            {
+                Console.WriteLine("summerStrut Playlist is ready to go!\n\n");
+            }
+            else if (summerStrut.Length > 8)
+            {
+                Console.WriteLine("Too many Songs!\n\n");
+            }
+            else
+            {
+                Console.WriteLine("Add some more songs!\n\n");
+            }
+
+
+            // *------------------------------------------------------------PROGRAM ENDS HERE------------------------------------------------------------*
+
+
+
+            // Accessing Array Items
+
+            /* Check Docs Document For the Instructions, I've given up now*/
+
+            // *------------------------------------------------------------PROGRAM STARTS HERE------------------------------------------------------------*
+
+
+            // Looking at the Same Array from the 8 playlist array
+
+            Console.WriteLine($"{summerStrut[1]} Rating: {ratings[1]}\n\n");
+
+            // *------------------------------------------------------------PROGRAM ENDS HERE------------------------------------------------------------*
+
+
+
+            // 
+
+            /* Check Docs Document For the Instructions, I've given up now*/
+
+            // *------------------------------------------------------------PROGRAM STARTS HERE------------------------------------------------------------*
+
 
 
 
