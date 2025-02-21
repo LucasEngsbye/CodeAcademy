@@ -556,7 +556,7 @@ namespace CodeAcademyClasses
             bool friendNeeds = beach || hiking;
 
             bool tripDecision = yourNeeds && friendNeeds;
-            Console.WriteLine("Can we make it to ou trip? True = yes, False = no: \n"+tripDecision+"\n\n");
+            Console.WriteLine("Can we make take ourt trip? True = yes, False = no: \n"+tripDecision+"\n\n");
 
 
             // *------------------------------------------------------------PROGRAM ENDS HERE------------------------------------------------------------*
