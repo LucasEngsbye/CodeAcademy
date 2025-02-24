@@ -744,6 +744,32 @@ namespace CodeAcademyClasses
 
 
 
+
+
+
+
+
+
+            // Opgave træning for mig selv
+
+            // *------------------------------------------------------------PROGRAM STARTS HERE------------------------------------------------------------*
+
+            for (int n = 0; n <= 10;  n++)
+            {
+                Console.WriteLine("Dette er tallet nu: " + n);
+            }
+
+            int[] talArray;
+
+            talArray = new int[] { 20, 40, 43, 53, 100, };
+
+            if (talArray[2] == 43)
+            {
+                Console.WriteLine("\n\nYahooo!\n\n");
+            }
+
+            // *------------------------------------------------------------PROGRAM ENDS HERE------------------------------------------------------------*
+
         }
     }
 }
